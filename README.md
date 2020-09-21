@@ -14,8 +14,8 @@
 
 ## Installation
 
-* `git clone git@github.com:the-road-to-learn-react/react-flow-example.git`
-* `cd react-flow-example`
+* `git clone git@github.com:headwaytechs/react-project-flow.git`
+* `cd react-project-flow`
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
